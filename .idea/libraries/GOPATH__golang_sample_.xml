@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;golang-sample&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/derekparker/delve/.git" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/mitchellh/gox/.git" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/PuerkitoBio/goquery/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/andybalholm/cascadia/.git" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/derekparker/delve/dwarf/frame/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/mitchellh/iochan/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/PuerkitoBio/goquery/.git" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/mitchellh/ioprogress/.git" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com/derekparker/delve/_fixtures" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/golang.org/x/net/html/testdata" />
+    </excluded>
+  </library>
+</component>
